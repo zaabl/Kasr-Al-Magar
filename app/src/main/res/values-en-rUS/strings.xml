@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlMagar Palace</string>
+    <string name="loginLogo">Al-Magar Palace</string>
+    <string name="loginName">Email</string>
+    <string name="loginPass">Password</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="loginNot">Not a member yet?</string>
+    <string name="loginForgot">Forgot Password?</string>
+    <string name="loginToastFill">Please fill out all the fields</string>
+    <string name="loginToastVerified">Email is not verified check your email</string>
+    <string name="loginToastFailed">Email or Password is incorrect</string>
+    <string name="registerName">Full Name</string>
+    <string name="registerEmail">E-Mail</string>
+    <string name="registerPassword">Password</string>
+    <string name="registerPassword2">Confirm Password</string>
+    <string name="registerBtn">REGISTER</string>
+    <string name="registerAlready">Already a member?</string>
+    <string name="registerToastPasswordMatch">Passwords did not match</string>
+    <string name="registerToastEmpty">All fields must be filed out</string>
+    <string name="registerToastPhoto">Please choose a profile photo</string>
+    <string name="registerPermission">Please accept the required perrmisions</string>
+    <string name="registerToastSignup">Signup successful. Sending Verification Email</string>
+    <string name="forgotEmail">Enter Your Email</string>
+    <string name="forgotBtn">ENTER</string>
+    <string name="homeTag">Feed</string>
+    <string name="homeSave">Save</string>
+    <string name="HomeReport">Report</string>
+    <string name="HomeDelete">Delete</string>
+    <string name="homeAllow">You are not allowed to!</string>
+    <string name="homeSaved">Saved</string>
+    <string name="homeReported">Reported</string>
+    <string name="menuLogout">Log Out</string>
+    <string name="storeTag">Store</string>
+    <string name="storeBtn">BUY NOW</string>
+    <string name="shareTag">Post</string>
+    <string name="shareCaption">Write a description...</string>
+    <string name="shareBtn">OPEN GALLERY</string>
+    <string name="shareUploading">Uploading Post</string>
+    <string name="shareFill">Please Enter Caption</string>
+    <string name="shareSuccesss">Posted Successfully</string>
+    <string name="sharePermission">Please accept the required permissions</string>
+    <string name="savedTag">Saved</string>
+    <string name="savedUnsave">Unsave</string>
+    <string name="reportTag">Reported</string>
+    <string name="reportDelete">Delete</string>
+    <string name="reportIgnore">Ignore</string>
+    <string name="savedToastUnsaved">Unsaved</string>
+    <string name="reportDeleted">Deleted</string>
+    <string name="reportIgnored">Ignored</string>
+    <string name="profileTag">Profile</string>
+    <string name="profileChange">Change Photo</string>
+    <string name="profileName">Name</string>
+    <string name="profileEmail">E-Mail</string>
+    <string name="profileUpdate">Profile Photo Updated</string>
+    <string name="mainSignout">Signed Out Successfully</string>
+    <string name="commentPosted">Comment Posted</string>
+    <string name="commentDelted">Deleted</string>
+    <string name="commentBtn">COMMENT</string>
+    <string name="commentType">Type comment here</string>
+    <string name="homeDeleted">Deleted</string>
+    <string name="text">The Palace of the Magar or the Palace of the city of Namas, or the astronomical palace, which is a heritage village carrying thousands of manuscripts and thousands of traditional pieces dating back hundreds of years as this palace holds thousands of Islamic decorations and there is a palace courtyard from the back apartments and restrooms to serve visitors from the distant areas overlooking Tihama The heritage village of Al-Namas, 150 km north of Abha in the far south of Saudi Arabia, is a marvel of the marvels of the 21st century, shaped by a traditional engineering mentality in a purely Saudi mold. The Alhambra Palace in Granada, nestled in the 17th century, is also remembered at the entrance to Namas. The site is inspired by the story of a civilization dug by the village\'s founder, Muhammad Al-Muhri Al-Shihri. It took more than 35 years to build more than 2 million natural stones from the Asir mountains, at a cost of more than SR 80 million.\n\n
+
+He did not know that he would spend the rest of his life in building and construction before passing trips he traveled to all the world to gain the experience and know-how to be the starting spark of his project.\n\n
+
+More than 20 facades of visitors and galleries surrounded by hanging gardens, where work is still being watered through water channels and springs where the fine decorative elements were used in a unique geometrical design of its own design, and decorations of Andalusian architecture that adorn the walls, Her reputation became popular in Andalusia. The palace was designed in such a way as to allow the sun to spin a full circle around the palace windows. Perhaps the most important feature of the palace, the seven domes, which represent the seven continents of the world and there are more than 365 columns within the palace represented by the number of days of the year saturated the walls of the Umayyad and Abbasid civilization to form a coherent belt.\n\n
+
+The roles come from historical times and times, a theme to solve in your mind the span of different eras in the past and present. The first and second roles contain more than 18 thousand pieces of heritage,\n
+
+The first symbolizes the Andalusian civilization and the Abbasid period in the art of decoration and engraving, and the second reduces the Islamic civilization from China in the east and even West Africa, to gather together 20,000 artifacts,\n
+
+The third contains an account of the history of Islamic manuscripts in medicine, astronomy, mathematics, jurisprudence, Arabic language and Islamic schools.\n\n
+
+The palace is considered the first record in the Islamic history of handwritten manuscripts of the Holy Quran, with more than a thousand Koranic manuscripts of 1,000 thousand in a thousand different history,\n
+
+The Heritage Village houses accommodation and accommodation, where you can stay in this heritage village to enjoy the pure summer atmosphere, which is owned by Nemas at nominal prices, the aim of which is to benefit the tourist and the sabers of history by staying in this beautiful highland.\n</string>
+    <string name="header">Al-Magar Palace</string>
+    <string name="informationTag">Palace\'s Information</string>
+    <string name="profileNameChanged">Name Changed Successfully</string>
+</resources>

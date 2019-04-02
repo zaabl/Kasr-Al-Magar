@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قصر المقر</string>
+    <string name="loginLogo">قصر المقر</string>
+    <string name="loginName">البريد الالكترونى</string>
+    <string name="loginPass">كلمة السر</string>
+    <string name="loginBtn">تسجيل الدخول</string>
+    <string name="loginNot">لست عضوا بعد؟</string>
+    <string name="loginForgot">نسيت كلمة المرور؟</string>
+    <string name="loginToastFill">يرجى ملء جميع الخانات</string>
+    <string name="loginToastVerified">البريد الالكترونى غير مفعل</string>
+    <string name="loginToastFailed">البريد الالكترونى او كلمة السر غير صحيحة</string>
+    <string name="registerName">الأسم كاملا</string>
+    <string name="registerEmail">البريد الالكترونى</string>
+    <string name="registerPassword">كلمة المرور</string>
+    <string name="registerPassword2">تأكيد كلمة المرور</string>
+    <string name="registerBtn">الأشتراك</string>
+    <string name="registerAlready">مشترك بالفعل؟</string>
+    <string name="registerToastPasswordMatch">كلمة المرور غير مطابقة</string>
+    <string name="registerToastEmpty">يجب ملء جميع الخانات</string>
+    <string name="registerToastPhoto">فضلا اختر صورة شخصية</string>
+    <string name="registerPermission">فضلا وافق على الإذن المطلوب</string>
+    <string name="registerToastSignup">تم التسجيل بنجاح. جارى ارسال رسالة التفعيل</string>
+    <string name="forgotEmail">ادخل بريدك الألكترونى</string>
+    <string name="forgotBtn">أدخل</string>
+    <string name="homeSave">حفظ</string>
+    <string name="HomeReport">أبلغ</string>
+    <string name="HomeDelete">أمسح</string>
+    <string name="homeTag">اخر الأخبار</string>
+    <string name="homeAllow">ليس مسموحا لك!</string>
+    <string name="homeSaved">تم الحفظ</string>
+    <string name="homeReported">تم الابلاغ</string>
+    <string name="menuLogout">تسجيل الخروج</string>
+    <string name="storeTag">المتجر</string>
+    <string name="storeBtn">أشترى الان</string>
+    <string name="shareTag">انشر</string>
+    <string name="shareCaption">اكتب تعليق...</string>
+    <string name="shareBtn">افتح الصور</string>
+    <string name="shareUploading">جارى تحميل الصورة</string>
+    <string name="shareFill">برجاء ادخل تعليق</string>
+    <string name="shareSuccesss">تم النشر بنجاح</string>
+    <string name="sharePermission">فضلا وافق على الإذن المطلوب</string>
+    <string name="savedTag">المحفوظ</string>
+    <string name="savedUnsave">ازالة من المحفوظ</string>
+    <string name="reportTag">المبلغ عنهم</string>
+    <string name="reportDelete">مسج</string>
+    <string name="reportIgnore">تجاهل</string>
+    <string name="savedToastUnsaved">تم الازالة</string>
+    <string name="reportDeleted">تم المسح</string>
+    <string name="reportIgnored">تم التجاهل</string>
+    <string name="profileTag">الملف الشخصى</string>
+    <string name="profileChange">تغيير الصورة</string>
+    <string name="profileName">الأسم</string>
+    <string name="profileEmail">البريد الألكترونى</string>
+    <string name="profileUpdate">تم تغيير الصورة الشخصية</string>
+    <string name="mainSignout">تم تسجيل الخروج بنجاح</string>
+    <string name="commentPosted">تم نشر التعليق</string>
+    <string name="commentDelted">تم المسح</string>
+    <string name="commentBtn">تعليق</string>
+    <string name="commentType">أكتب التعليق هنا</string>
+    <string name="homeDeleted">تم المسح</string>
+    <string name="text">قصر المقر أو قصر مدينة النماص, أو القصر الفلكي وهو عباره عن قرية تراثيه تحمل الآف المخطوطات والآف القطع التراثيه التي تعود إلى مئات السنين كما يحمل هذا القصر الآف الزخارف الإسلامية كما يوجد بساحة القصر من الخلف شقق واستراحات لخدمه الزوار القادمين من مناطق بعيده تطل على تهامة وأيضاً يوجد به حديقه حيوانات واستراحه للزوار ,,, قرية المقر التراثية في منطقة النماص، 150 كم شمال أبها في أقصى الجنوب السعودي، تعتبر أعجوبة من أعاجيب القرن الواحد والعشرين صاغتها عقلية هندسية تراثية في قالب سعودي صرف. ويتداعى إلى الأذهان عند مدخل النماص قصر الحمراء في غرناطة، الذي يتربع في ثنايا القرن السابع عشر. ويستلهم المقر قصة حضارة حفرها (محمد المقر الشهري) صاحب القرية التراثية، استغرقت أكثر من 35 عاما واستخدم في البناء أكثر من مليوني حجر طبيعي من جبال عسير بتكلفة تفوق الـ 80 مليون ريال سعودي لتكون من شواهد براعة هذا الإرث التاريخي.\n \n
+
+
+أكثر من عشرين واجهة تطل للزائرين وأروقة محاطة بالحدائق المعلقة، التي ما زال العمل جارياً فيها تسقى من خلال قنوات وينابيع مياه استخدم فيها العناصر الزخرفية الرقيقة في قالب هندسيٍ فريد من تصميمه شخصياً، وزخارف من المعمار الأندلسي الذي يكسو الجدران، مطوقاً بالكيشاني المطرز بالنقوش العربية التي ذاع صيتها في الأندلس. والقصر صمم بطريقة تسمح للشمس بأن تدور حوله دورة كاملة على امتداد نوافذ القصر المتعددة. ولعل أهم ما يميز القصر، القباب السبع، التي تمثل قارات العالم السبع وهناك أكثر من 365 عموداً داخل القصر ممثلةً عدد أيام السنة تتشبع حيطانها بالحضارة الأموية والعباسية لتشكل حزاماً متناسقاً.\n \n
+
+وتأتي الأدوار متخذة من الحقب والأزمنة التاريخية موضوعا لها ليحل في مخيلتك امتداد عصور مختلفة في الماضي والحاضر ويحتوي الدور الأول والثاني على أكثر من (18) الف قطعه تراثيه،\n
+
+\n \nفالأول يجسد حضارة الأندلس والعصر العباسي في فن الزخرفة والنقش، والثاني يختزل الحضارة الإسلامية من الصين شرقاً وحتى غرب أفريقيا، ليكتنز الدوران معاً 20 الف قطعة أثرية،
+
+أما الثالث فيحتوي على سردٍ لتاريخ المخطوطات الإسلامية في الطب والفلك والرياضيات وعلوم الفرائض واللغة العربية والمذاهب الإسلامية.\n
+
+\n\nويعتبر القصر السجل الأول في التاريخ الإسلامي للمخطوطات المكتوبة باليد للقرآن الكريم، به أكثر من ألف مخطوطة قرآن كريم لألف عالم في ألف تاريخ مختلف ,,
+
+وتحوي القرية التراثية أجنحة للسكن والإقامة، حيث بإمكانك الإقامة في هذه القرية التراثية لتنعم بالأجواء الصيفية النقية، التي تمتلكها النماص بأسعارٍ رمزية، هدف صاحبها إلى أن يستفيد السائح وسابر أغوار التاريخ بالإقامة في هذا المرتفع الجميل.\n\n</string>
+    <string name="header">قصر المقر</string>
+    <string name="informationTag">معلومات عن القصر</string>
+    <string name="profileNameChanged">تم تغيير الأسم بنجاح</string>
+    <string name="resetPlease">نرجو ادخال البريد الالكترونى المسجل مع الحساب</string>
+    <string name="resetSucess">تم ارسال البريد بنجاح. برجاء تفقد البريد الاكترونى</string>
+    <string name="resetFaliure">فضلا ادخل البريد الصحيح</string>
+</resources>
