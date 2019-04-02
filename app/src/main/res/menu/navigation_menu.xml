@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_home"
+        android:title=""
+        android:id="@+id/navHome"
+        android:orderInCategory="0"/>
+    <item
+        android:icon="@drawable/ic_store"
+        android:title=""
+        android:id="@+id/navAuction"
+        android:orderInCategory="1"/>
+    <item
+        android:icon="@drawable/ic_add"
+        android:title=""
+        android:id="@+id/navAdd"
+        android:orderInCategory="2"/>
+    <item
+        android:icon="@drawable/ic_save"
+        android:title=""
+        android:id="@+id/navLikes"
+        android:orderInCategory="3"/>
+    <item
+        android:icon="@drawable/ic_profile"
+        android:title=""
+        android:id="@+id/navProfile"
+        android:orderInCategory="4"/>
+</menu>

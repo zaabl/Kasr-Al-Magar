@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961867855071",
+    "firebase_url": "https://kasralmakarxx.firebaseio.com",
+    "project_id": "kasralmakarxx",
+    "storage_bucket": "kasralmakarxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961867855071:android:43f8a1ca9bbabf95",
+        "android_client_info": {
+          "package_name": "com.pharaohtech.kasralmakarxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961867855071-8cuqra9r0it3ndg0mh71gr3eonr0mq3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharaohtech.kasralmakarxx",
+            "certificate_hash": "21e00b1b62b415ad86aeee0e60ccb0395ea9f8cb"
+          }
+        },
+        {
+          "client_id": "961867855071-cdj1spob77ag658n4s1bg0gatofu3p9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMt1vwmxncQCJKApC77YIWsaP4kAG_pOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961867855071-cdj1spob77ag658n4s1bg0gatofu3p9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
